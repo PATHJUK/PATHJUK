@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @qulad
-- 👀 I’m interested in python development
+- 👀 I’m interested in python development, sliding to C++
 - 🌱 I’m currently a computer engineering student at İzmir Bakırçay University
 - 📫 How to reach me ig:pathjuk.py
 
